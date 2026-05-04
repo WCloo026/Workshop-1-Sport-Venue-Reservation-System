@@ -1,0 +1,32 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# ===== C++ Build Files =====
+Debug/
+Release/
+packages/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# ===== Logs =====
+*.log
+
+# ===== XAMPP / Server (if got) =====
+/xampp/
+/htdocs/
+
+# ===== Database =====
+*.sql
+*.db
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
